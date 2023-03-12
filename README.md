@@ -1,6 +1,9 @@
-# weather_new
+# weather_App
 
 A new Flutter project.
+
+![image](https://user-images.githubusercontent.com/70130828/224559475-d5be96b3-644a-4d24-b8cd-b61a8bb1baff.png)
+
 
 ## Getting Started
 
